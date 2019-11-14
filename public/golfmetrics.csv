@@ -1,0 +1,574 @@
+roundid,hnum,shotid,stroke,startpos,shotcategory,holedis,proximity,startpos_name,lastshot,penalty,recovery,shotdisbucket,golfername,fairwayhit,scrsg,course,date
+48880,1,2741841,1,0,Drive,341,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,1,2741842,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,1,2741843,3,0,Drive,341,423,TEE,0,0,0,Drive,Graham Fletcher,1,-0.007,Belfry PGA N,2019-06-02
+48880,1,2741844,4,1,Approach,141,99,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.493,Belfry PGA N,2019-06-02
+48880,1,2741845,5,1,Short Game,33,21,FAIRWAY,0,0,0,30 - 40,Graham Fletcher,0,-0.309,Belfry PGA N,2019-06-02
+48880,1,2741846,6,4,Putting,21,1,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.071,Belfry PGA N,2019-06-02
+48880,1,2741847,7,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Belfry PGA N,2019-06-02
+48880,2,2741848,1,0,Drive,487,798,TEE,0,0,0,Drive,Graham Fletcher,0,-0.197,Belfry PGA N,2019-06-02
+48880,2,2741849,2,2,Approach,266,105,ROUGH,0,0,0,250+,Graham Fletcher,0,0.423,Belfry PGA N,2019-06-02
+48880,2,2741850,3,1,Short Game,35,2,FAIRWAY,0,0,0,30 - 40,Graham Fletcher,0,0.626,Belfry PGA N,2019-06-02
+48880,2,2741851,4,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,Belfry PGA N,2019-06-02
+48880,3,2741852,1,0,Approach,157,17,TEE,0,0,0,150 - 175,Graham Fletcher,0,0.270,Belfry PGA N,2019-06-02
+48880,3,2741853,2,4,Putting,17,1,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.129,Belfry PGA N,2019-06-02
+48880,3,2741854,3,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Belfry PGA N,2019-06-02
+48880,4,2741855,1,0,Drive,360,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,4,2741856,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,4,2741857,3,0,Drive,360,495,TEE,0,0,0,Drive,Graham Fletcher,1,-0.075,Belfry PGA N,2019-06-02
+48880,4,2741858,4,1,Approach,165,54,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.476,Belfry PGA N,2019-06-02
+48880,4,2741859,5,3,Short Game,18,22,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.216,Belfry PGA N,2019-06-02
+48880,4,2741860,6,4,Putting,22,4,GREEN,0,0,0,22+,Graham Fletcher,0,-0.260,Belfry PGA N,2019-06-02
+48880,4,2741861,7,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,Belfry PGA N,2019-06-02
+48880,5,2741862,1,0,Drive,384,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,5,2741863,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,5,2741864,3,0,Drive,384,306,TEE,0,0,0,Drive,Graham Fletcher,1,0.216,Belfry PGA N,2019-06-02
+48880,5,2741865,4,1,Approach,102,102,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,-0.742,Belfry PGA N,2019-06-02
+48880,5,2741866,5,2,Short Game,34,15,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,-0.042,Belfry PGA N,2019-06-02
+48880,5,2741867,6,4,Putting,15,2,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.186,Belfry PGA N,2019-06-02
+48880,5,2741868,7,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,Belfry PGA N,2019-06-02
+48880,6,2741869,1,0,Drive,395,276,TEE,0,0,0,Drive,Graham Fletcher,1,-0.697,Belfry PGA N,2019-06-02
+48880,6,2741870,3,1,Short Game,92,33,FAIRWAY,0,0,0,90 - 100,Graham Fletcher,0,-0.055,Belfry PGA N,2019-06-02
+48880,6,2741871,4,4,Putting,33,1,GREEN,0,0,0,22+,Graham Fletcher,0,0.059,Belfry PGA N,2019-06-02
+48880,6,2741872,5,4,Putting,1,-,GREEN,0,0,0,0 - 2,Graham Fletcher,0,0.005,Belfry PGA N,2019-06-02
+48880,6,2741873,2,0,Drive,0,-,TEE,1,1,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,7,2741874,1,0,Drive,412,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,7,2741875,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,7,2741876,3,0,Drive,412,450,TEE,0,0,0,Drive,Graham Fletcher,1,0.244,Belfry PGA N,2019-06-02
+48880,7,2741877,4,1,Approach,150,54,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.253,Belfry PGA N,2019-06-02
+48880,7,2741878,5,1,Short Game,18,4,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,0.196,Belfry PGA N,2019-06-02
+48880,7,2741879,6,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,Belfry PGA N,2019-06-02
+48880,8,2741880,1,0,Approach,187,84,TEE,0,0,0,175 - 200,Graham Fletcher,0,-0.439,Belfry PGA N,2019-06-02
+48880,8,2741881,2,2,Short Game,28,5,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,0.408,Belfry PGA N,2019-06-02
+48880,8,2741882,3,4,Putting,5,5,GREEN,0,0,0,05,Graham Fletcher,0,-1.000,Belfry PGA N,2019-06-02
+48880,8,2741883,4,4,Putting,5,-,GREEN,1,0,0,05,Graham Fletcher,0,0.334,Belfry PGA N,2019-06-02
+48880,9,2741884,1,0,Drive,380,309,TEE,0,0,0,Drive,Graham Fletcher,1,0.199,Belfry PGA N,2019-06-02
+48880,9,2741885,2,1,Approach,103,66,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,-0.721,Belfry PGA N,2019-06-02
+48880,9,2741886,3,3,Short Game,22,51,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.940,Belfry PGA N,2019-06-02
+48880,9,2741887,4,3,Short Game,17,18,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.175,Belfry PGA N,2019-06-02
+48880,9,2741888,5,4,Putting,18,2,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.132,Belfry PGA N,2019-06-02
+48880,9,2741889,6,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,Belfry PGA N,2019-06-02
+48880,10,2741890,1,0,Drive,428,495,TEE,0,0,0,Drive,Graham Fletcher,1,0.224,Belfry PGA N,2019-06-02
+48880,10,2741891,2,1,Approach,165,54,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.335,Belfry PGA N,2019-06-02
+48880,10,2741892,3,2,Short Game,18,15,ROUGH,0,0,0,15 - 20,Graham Fletcher,0,-0.248,Belfry PGA N,2019-06-02
+48880,10,2741893,4,4,Putting,15,4,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.369,Belfry PGA N,2019-06-02
+48880,10,2741894,5,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,Belfry PGA N,2019-06-02
+48880,11,2741895,1,0,Approach,160,51,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.555,Belfry PGA N,2019-06-02
+48880,11,2741896,2,3,Short Game,17,15,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.121,Belfry PGA N,2019-06-02
+48880,11,2741897,3,4,Putting,15,3,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.242,Belfry PGA N,2019-06-02
+48880,11,2741898,4,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Belfry PGA N,2019-06-02
+48880,12,2741899,1,0,Drive,505,696,TEE,0,0,0,Drive,Graham Fletcher,1,0.310,Belfry PGA N,2019-06-02
+48880,12,2741900,2,1,Approach,232,462,FAIRWAY,0,0,0,200 - 250,Graham Fletcher,0,-0.636,Belfry PGA N,2019-06-02
+48880,12,2741901,3,2,Approach,154,135,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,-0.523,Belfry PGA N,2019-06-02
+48880,12,2741902,4,2,Short Game,45,22,ROUGH,0,0,0,40 - 50,Graham Fletcher,0,-0.082,Belfry PGA N,2019-06-02
+48880,12,2741903,5,4,Putting,22,2,GREEN,0,0,0,22+,Graham Fletcher,0,-0.077,Belfry PGA N,2019-06-02
+48880,12,2741904,6,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,Belfry PGA N,2019-06-02
+48880,13,2741905,1,0,Drive,390,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,13,2741906,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,13,2741907,3,0,Drive,390,405,TEE,0,0,0,Drive,Graham Fletcher,1,0.172,Belfry PGA N,2019-06-02
+48880,13,2741908,4,1,Approach,135,126,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.608,Belfry PGA N,2019-06-02
+48880,13,2741909,5,1,Short Game,42,12,FAIRWAY,0,0,0,40 - 50,Graham Fletcher,0,-0.038,Belfry PGA N,2019-06-02
+48880,13,2741910,6,4,Putting,12,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.239,Belfry PGA N,2019-06-02
+48880,13,2741911,7,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Belfry PGA N,2019-06-02
+48880,14,2741912,1,0,Drive,311,483,TEE,0,0,0,Drive,Graham Fletcher,1,-0.162,Belfry PGA N,2019-06-02
+48880,14,2741913,2,1,Approach,161,129,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.511,Belfry PGA N,2019-06-02
+48880,14,2741914,3,1,Short Game,43,14,FAIRWAY,0,0,0,40 - 50,Graham Fletcher,0,-0.078,Belfry PGA N,2019-06-02
+48880,14,2741915,4,4,Putting,14,3,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.264,Belfry PGA N,2019-06-02
+48880,14,2741916,5,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Belfry PGA N,2019-06-02
+48880,15,2741917,1,0,Approach,141,-,TEE,0,0,0,125 - 150,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,15,2741918,2,0,Approach,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,15,2741919,3,0,Approach,141,84,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.468,Belfry PGA N,2019-06-02
+48880,15,2741920,4,1,Short Game,28,1,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,0.555,Belfry PGA N,2019-06-02
+48880,15,2741921,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Belfry PGA N,2019-06-02
+48880,16,2741922,1,0,Drive,305,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,16,2741923,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,16,2741924,3,0,Drive,305,276,TEE,0,0,0,Drive,Graham Fletcher,1,0.045,Belfry PGA N,2019-06-02
+48880,16,2741925,4,1,Short Game,92,-,FAIRWAY,0,0,0,90 - 100,Graham Fletcher,0,-1.483,Belfry PGA N,2019-06-02
+48880,16,2741926,5,0,Approach,0,-,FAIRWAY,0,1,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,16,2741927,6,2,Short Game,14,8,ROUGH,0,0,0,10 - 15,Graham Fletcher,0,-0.105,Belfry PGA N,2019-06-02
+48880,16,2741928,7,4,Putting,8,1,GREEN,0,0,0,08,Graham Fletcher,0,-0.409,Belfry PGA N,2019-06-02
+48880,16,2741929,8,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Belfry PGA N,2019-06-02
+48880,17,2741930,1,0,Drive,311,264,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Belfry PGA N,2019-06-02
+48880,17,2741931,4,2,Short Game,88,14,ROUGH,0,0,0,80 - 90,Graham Fletcher,0,0.278,Belfry PGA N,2019-06-02
+48880,17,2741932,5,4,Putting,14,2,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.208,Belfry PGA N,2019-06-02
+48880,17,2741933,6,4,Putting,2,-,GREEN,0,0,0,0 - 2,Graham Fletcher,0,0.024,Belfry PGA N,2019-06-02
+48880,17,2741934,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Belfry PGA N,2019-06-02
+48880,17,2741935,3,0,Drive,311,-,TEE,1,0,0,Drive,Graham Fletcher,0,-0.029,Belfry PGA N,2019-06-02
+48880,18,2741936,1,0,Drive,342,411,TEE,0,0,0,Drive,Graham Fletcher,1,0.003,Belfry PGA N,2019-06-02
+48880,18,2741937,2,1,Approach,137,84,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.436,Belfry PGA N,2019-06-02
+48880,18,2741938,3,1,Short Game,28,10,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.136,Belfry PGA N,2019-06-02
+48880,18,2741939,4,4,Putting,10,3,GREEN,0,0,0,10,Graham Fletcher,0,-0.384,Belfry PGA N,2019-06-02
+48880,18,2741940,5,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Belfry PGA N,2019-06-02
+49604,1,2783479,1,0,Drive,549,768,TEE,0,0,0,Drive,Graham Fletcher,0,0.347,South Essex HH,2019-06-09
+49604,1,2783480,2,2,Approach,256,231,ROUGH,0,0,0,250+,Graham Fletcher,0,0.091,South Essex HH,2019-06-09
+49604,1,2783481,3,1,Short Game,77,18,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,-0.149,South Essex HH,2019-06-09
+49604,1,2783482,4,1,Short Game,6,2,FAIRWAY,0,0,0,0 - 10,Graham Fletcher,0,0.054,South Essex HH,2019-06-09
+49604,1,2783483,5,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,South Essex HH,2019-06-09
+49604,2,2783484,1,0,Drive,342,534,TEE,0,0,0,Drive,Graham Fletcher,1,-0.218,South Essex HH,2019-06-09
+49604,2,2783485,2,1,Approach,178,-,FAIRWAY,0,0,0,175 - 200,Graham Fletcher,0,-1.600,South Essex HH,2019-06-09
+49604,2,2783486,3,0,Approach,0,-,FAIRWAY,0,1,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-06-09
+49604,2,2783487,4,2,Short Game,61,8,ROUGH,0,0,0,60 - 70,Graham Fletcher,0,0.349,South Essex HH,2019-06-09
+49604,2,2783488,5,4,Putting,8,5,GREEN,0,0,0,08,Graham Fletcher,0,-0.738,South Essex HH,2019-06-09
+49604,2,2783489,6,4,Putting,5,1,GREEN,0,0,0,05,Graham Fletcher,0,-0.671,South Essex HH,2019-06-09
+49604,2,2783490,7,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,3,2783491,1,0,Drive,431,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,South Essex HH,2019-06-09
+49604,3,2783492,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-06-09
+49604,3,2783493,3,0,Drive,431,666,TEE,0,0,0,Drive,Graham Fletcher,1,-0.146,South Essex HH,2019-06-09
+49604,3,2783494,4,1,Approach,222,303,FAIRWAY,0,0,0,200 - 250,Graham Fletcher,0,-0.411,South Essex HH,2019-06-09
+49604,3,2783495,5,1,Approach,101,38,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,-0.061,South Essex HH,2019-06-09
+49604,3,2783496,6,4,Putting,38,7,GREEN,0,0,0,22+,Graham Fletcher,0,-0.414,South Essex HH,2019-06-09
+49604,3,2783497,7,4,Putting,7,1,GREEN,0,0,0,07,Graham Fletcher,0,-0.478,South Essex HH,2019-06-09
+49604,3,2783498,8,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,4,2783499,1,0,Approach,149,63,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.348,South Essex HH,2019-06-09
+49604,4,2783500,2,1,Short Game,21,6,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,0.014,South Essex HH,2019-06-09
+49604,4,2783501,3,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,South Essex HH,2019-06-09
+49604,5,2783502,1,0,Drive,546,975,TEE,0,0,0,Drive,Graham Fletcher,0,0.035,South Essex HH,2019-06-09
+49604,5,2783503,2,2,Approach,325,510,ROUGH,0,0,0,250+,Graham Fletcher,0,0.019,South Essex HH,2019-06-09
+49604,5,2783504,3,1,Approach,170,54,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.114,South Essex HH,2019-06-09
+49604,5,2783505,4,1,Short Game,18,5,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,0.069,South Essex HH,2019-06-09
+49604,5,2783506,5,4,Putting,5,-,GREEN,1,0,0,05,Graham Fletcher,0,0.334,South Essex HH,2019-06-09
+49604,6,2783507,1,0,Drive,328,432,TEE,0,0,0,Drive,Graham Fletcher,1,-0.039,South Essex HH,2019-06-09
+49604,6,2783508,2,1,Approach,144,-,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-1.994,South Essex HH,2019-06-09
+49604,6,2783509,3,0,Approach,0,-,FAIRWAY,0,1,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-06-09
+49604,6,2783510,4,2,Short Game,95,45,ROUGH,0,0,0,90 - 100,Graham Fletcher,0,-0.211,South Essex HH,2019-06-09
+49604,6,2783511,5,1,Short Game,15,8,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.254,South Essex HH,2019-06-09
+49604,6,2783512,6,4,Putting,8,-,GREEN,1,0,0,08,Graham Fletcher,0,0.596,South Essex HH,2019-06-09
+49604,7,2783513,1,0,Drive,326,543,TEE,0,0,0,Drive,Graham Fletcher,1,-0.271,South Essex HH,2019-06-09
+49604,7,2783514,2,1,Approach,181,-,FAIRWAY,0,0,0,175 - 200,Graham Fletcher,0,-1.673,South Essex HH,2019-06-09
+49604,7,2783515,3,0,Approach,0,-,FAIRWAY,0,1,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-06-09
+49604,7,2783516,4,2,Short Game,78,19,ROUGH,0,0,0,70 - 80,Graham Fletcher,0,0.132,South Essex HH,2019-06-09
+49604,7,2783517,5,4,Putting,19,6,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.535,South Essex HH,2019-06-09
+49604,7,2783518,6,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,South Essex HH,2019-06-09
+49604,7,2783519,7,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,8,2783520,1,0,Approach,159,90,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.430,South Essex HH,2019-06-09
+49604,8,2783521,2,1,Short Game,30,19,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.320,South Essex HH,2019-06-09
+49604,8,2783522,3,4,Putting,19,1,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.099,South Essex HH,2019-06-09
+49604,8,2783523,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,9,2783524,1,0,Drive,279,234,TEE,0,0,0,Drive,Graham Fletcher,1,-0.033,South Essex HH,2019-06-09
+49604,9,2783525,2,1,Short Game,78,20,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,0.013,South Essex HH,2019-06-09
+49604,9,2783526,3,4,Putting,20,1,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.084,South Essex HH,2019-06-09
+49604,9,2783527,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,10,2783528,1,0,Drive,498,948,TEE,0,0,0,Drive,Graham Fletcher,0,-0.328,South Essex HH,2019-06-09
+49604,10,2783529,2,2,Approach,316,837,ROUGH,0,0,0,250+,Graham Fletcher,0,-0.854,South Essex HH,2019-06-09
+49604,10,2783530,3,2,Approach,279,300,ROUGH,0,0,0,250+,Graham Fletcher,0,-0.018,South Essex HH,2019-06-09
+49604,10,2783531,4,2,Short Game,100,33,ROUGH,0,0,0,90 - 100,Graham Fletcher,0,-0.087,South Essex HH,2019-06-09
+49604,10,2783532,5,1,Short Game,11,12,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.520,South Essex HH,2019-06-09
+49604,10,2783533,6,4,Putting,12,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.239,South Essex HH,2019-06-09
+49604,10,2783534,7,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,11,2783535,1,0,Drive,290,510,TEE,0,0,0,Drive,Graham Fletcher,0,-0.490,South Essex HH,2019-06-09
+49604,11,2783536,2,2,Approach,170,60,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,0.026,South Essex HH,2019-06-09
+49604,11,2783537,3,1,Short Game,20,6,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,-0.002,South Essex HH,2019-06-09
+49604,11,2783538,4,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,South Essex HH,2019-06-09
+49604,11,2783539,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,12,2783540,1,0,Drive,343,600,TEE,0,0,0,Drive,Graham Fletcher,0,-0.569,South Essex HH,2019-06-09
+49604,12,2783541,2,2,Approach,200,-,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,-1.522,South Essex HH,2019-06-09
+49604,12,2783542,3,0,Approach,0,-,ROUGH,0,1,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-06-09
+49604,12,2783543,4,2,Approach,120,19,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,0.314,South Essex HH,2019-06-09
+49604,12,2783544,5,4,Putting,19,1,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.099,South Essex HH,2019-06-09
+49604,12,2783545,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,13,2783546,1,0,Drive,354,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,South Essex HH,2019-06-09
+49604,13,2783547,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-06-09
+49604,13,2783548,3,0,Drive,354,213,TEE,0,0,0,Drive,Graham Fletcher,1,0.261,South Essex HH,2019-06-09
+49604,13,2783549,4,1,Short Game,71,7,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,0.370,South Essex HH,2019-06-09
+49604,13,2783550,5,4,Putting,7,1,GREEN,0,0,0,07,Graham Fletcher,0,-0.478,South Essex HH,2019-06-09
+49604,13,2783551,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,14,2783552,1,0,Drive,410,540,TEE,0,0,0,Drive,Graham Fletcher,0,-0.776,South Essex HH,2019-06-09
+49604,14,2783553,2,0,Recovery,180,513,TEE,0,0,1,-,Graham Fletcher,0,-0.137,South Essex HH,2019-06-09
+49604,14,2783554,3,1,Approach,171,36,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,0.023,South Essex HH,2019-06-09
+49604,14,2783555,4,1,Short Game,12,6,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.168,South Essex HH,2019-06-09
+49604,14,2783556,5,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,South Essex HH,2019-06-09
+49604,15,2783557,1,0,Approach,147,10,TEE,0,0,0,125 - 150,Graham Fletcher,0,0.408,South Essex HH,2019-06-09
+49604,15,2783558,2,4,Putting,10,1,GREEN,0,0,0,10,Graham Fletcher,0,-0.309,South Essex HH,2019-06-09
+49604,15,2783559,3,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,16,2783560,1,0,Drive,394,495,TEE,0,0,0,Drive,Graham Fletcher,0,-0.789,South Essex HH,2019-06-09
+49604,16,2783561,2,0,Recovery,165,360,TEE,0,0,1,-,Graham Fletcher,0,-0.369,South Essex HH,2019-06-09
+49604,16,2783562,3,3,Approach,120,63,SAND,0,0,0,100 - 125,Graham Fletcher,0,0.010,South Essex HH,2019-06-09
+49604,16,2783563,4,1,Short Game,21,14,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.361,South Essex HH,2019-06-09
+49604,16,2783564,5,4,Putting,14,1,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.189,South Essex HH,2019-06-09
+49604,16,2783565,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+49604,17,2783566,1,0,Approach,157,66,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.208,South Essex HH,2019-06-09
+49604,17,2783567,2,4,Putting,66,10,GREEN,0,0,0,22+,Graham Fletcher,0,-0.341,South Essex HH,2019-06-09
+49604,17,2783568,3,4,Putting,10,-,GREEN,1,0,0,10,Graham Fletcher,0,0.696,South Essex HH,2019-06-09
+49604,18,2783569,1,0,Drive,512,792,TEE,0,0,0,Drive,Graham Fletcher,0,0.008,South Essex HH,2019-06-09
+49604,18,2783570,2,2,Approach,264,294,ROUGH,0,0,0,250+,Graham Fletcher,0,0.023,South Essex HH,2019-06-09
+49604,18,2783571,3,1,Short Game,98,18,FAIRWAY,0,0,0,90 - 100,Graham Fletcher,0,0.148,South Essex HH,2019-06-09
+49604,18,2783572,4,4,Putting,18,6,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.549,South Essex HH,2019-06-09
+49604,18,2783573,5,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,South Essex HH,2019-06-09
+49604,18,2783574,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-06-09
+50899,1,2859811,1,0,Drive,273,456,TEE,0,0,0,Drive,Graham Fletcher,0,-0.464,Mardyke Vall,2019-06-22
+50899,1,2859812,2,2,Approach,152,54,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,-0.264,Mardyke Vall,2019-06-22
+50899,1,2859813,3,2,Short Game,18,33,ROUGH,0,0,0,15 - 20,Graham Fletcher,0,-0.657,Mardyke Vall,2019-06-22
+50899,1,2859814,4,1,Short Game,11,5,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.087,Mardyke Vall,2019-06-22
+50899,1,2859815,5,4,Putting,5,-,GREEN,1,0,0,05,Graham Fletcher,0,0.334,Mardyke Vall,2019-06-22
+50899,2,2859816,1,0,Drive,336,714,TEE,0,0,0,Drive,Graham Fletcher,1,-0.628,Mardyke Vall,2019-06-22
+50899,2,2859817,2,1,Approach,238,249,FAIRWAY,0,0,0,200 - 250,Graham Fletcher,0,-0.217,Mardyke Vall,2019-06-22
+50899,2,2859818,3,1,Short Game,83,24,FAIRWAY,0,0,0,80 - 90,Graham Fletcher,0,-0.011,Mardyke Vall,2019-06-22
+50899,2,2859819,4,4,Putting,24,7,GREEN,0,0,0,22+,Graham Fletcher,0,-0.556,Mardyke Vall,2019-06-22
+50899,2,2859820,5,4,Putting,7,1,GREEN,0,0,0,07,Graham Fletcher,0,-0.478,Mardyke Vall,2019-06-22
+50899,2,2859821,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,3,2859822,1,0,Drive,357,492,TEE,0,0,0,Drive,Graham Fletcher,1,-0.079,Mardyke Vall,2019-06-22
+50899,3,2859823,2,1,Approach,164,66,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.224,Mardyke Vall,2019-06-22
+50899,3,2859824,3,1,Short Game,22,6,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,0.031,Mardyke Vall,2019-06-22
+50899,3,2859825,4,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,Mardyke Vall,2019-06-22
+50899,4,2859826,1,0,Drive,344,603,TEE,0,0,0,Drive,Graham Fletcher,0,-1.174,Mardyke Vall,2019-06-22
+50899,4,2859827,2,0,Recovery,201,330,TEE,0,0,1,-,Graham Fletcher,0,0.235,Mardyke Vall,2019-06-22
+50899,4,2859828,3,1,Approach,110,24,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,0.099,Mardyke Vall,2019-06-22
+50899,4,2859829,4,4,Putting,24,4,GREEN,0,0,0,22+,Graham Fletcher,0,-0.236,Mardyke Vall,2019-06-22
+50899,4,2859830,5,4,Putting,4,1,GREEN,0,0,0,04,Graham Fletcher,0,-0.798,Mardyke Vall,2019-06-22
+50899,4,2859831,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,5,2859832,1,0,Approach,120,11,TEE,0,0,0,100 - 125,Graham Fletcher,0,0.316,Mardyke Vall,2019-06-22
+50899,5,2859833,2,4,Putting,11,3,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.346,Mardyke Vall,2019-06-22
+50899,5,2859834,3,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Mardyke Vall,2019-06-22
+50899,6,2859835,1,0,Drive,549,-,TEE,0,0,0,Drive,Graham Fletcher,0,-1.303,Mardyke Vall,2019-06-22
+50899,6,2859836,2,0,Drive,0,-,TEE,0,1,0,-,Graham Fletcher,0,0.000,Mardyke Vall,2019-06-22
+50899,6,2859837,3,2,Approach,430,849,ROUGH,0,0,0,250+,Graham Fletcher,0,-0.363,Mardyke Vall,2019-06-22
+50899,6,2859838,4,1,Approach,283,-,FAIRWAY,0,0,0,250+,Graham Fletcher,0,-0.758,Mardyke Vall,2019-06-22
+50899,6,2859839,5,0,Drive,0,-,FAIRWAY,0,1,0,-,Graham Fletcher,1,0.000,Mardyke Vall,2019-06-22
+50899,6,2859840,6,1,Short Game,51,54,FAIRWAY,0,0,0,50 - 60,Graham Fletcher,0,-0.612,Mardyke Vall,2019-06-22
+50899,6,2859841,7,1,Short Game,18,10,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,-0.293,Mardyke Vall,2019-06-22
+50899,6,2859842,8,4,Putting,10,1,GREEN,0,0,0,-,Graham Fletcher,0,-0.309,Mardyke Vall,2019-06-22
+50899,6,2859843,9,4,Putting,1,-,GREEN,1,0,0,-,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,7,2859844,1,0,Drive,302,51,TEE,0,0,0,Drive,Graham Fletcher,1,0.664,Mardyke Vall,2019-06-22
+50899,7,2859845,2,1,Short Game,17,3,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,0.304,Mardyke Vall,2019-06-22
+50899,7,2859846,3,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Mardyke Vall,2019-06-22
+50899,8,2859847,1,0,Drive,313,633,TEE,0,0,0,Drive,Graham Fletcher,0,-1.300,Mardyke Vall,2019-06-22
+50899,8,2859848,2,0,Recovery,211,552,TEE,0,0,1,-,Graham Fletcher,0,-0.205,Mardyke Vall,2019-06-22
+50899,8,2859849,3,2,Approach,184,42,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,0.253,Mardyke Vall,2019-06-22
+50899,8,2859850,4,1,Short Game,14,24,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.650,Mardyke Vall,2019-06-22
+50899,8,2859851,5,4,Putting,24,4,GREEN,0,0,0,22+,Graham Fletcher,0,-0.236,Mardyke Vall,2019-06-22
+50899,8,2859852,6,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,Mardyke Vall,2019-06-22
+50899,9,2859853,1,0,Approach,154,192,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.831,Mardyke Vall,2019-06-22
+50899,9,2859854,2,2,Short Game,64,10,ROUGH,0,0,0,60 - 70,Graham Fletcher,0,0.266,Mardyke Vall,2019-06-22
+50899,9,2859855,3,4,Putting,10,1,GREEN,0,0,0,10,Graham Fletcher,0,-0.309,Mardyke Vall,2019-06-22
+50899,9,2859856,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,10,2859857,1,0,Drive,410,465,TEE,0,0,0,Drive,Graham Fletcher,0,0.034,Mardyke Vall,2019-06-22
+50899,10,2859858,2,2,Approach,155,60,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,-0.280,Mardyke Vall,2019-06-22
+50899,10,2859859,3,2,Short Game,20,30,ROUGH,0,0,0,15 - 20,Graham Fletcher,0,-0.591,Mardyke Vall,2019-06-22
+50899,10,2859860,4,1,Short Game,10,8,FAIRWAY,0,0,0,0 - 10,Graham Fletcher,0,-0.376,Mardyke Vall,2019-06-22
+50899,10,2859861,5,4,Putting,8,1,GREEN,0,0,0,08,Graham Fletcher,0,-0.409,Mardyke Vall,2019-06-22
+50899,10,2859862,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,11,2859863,1,0,Drive,294,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Mardyke Vall,2019-06-22
+50899,11,2859864,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Mardyke Vall,2019-06-22
+50899,11,2859865,3,0,Drive,294,309,TEE,0,0,0,Drive,Graham Fletcher,1,-0.054,Mardyke Vall,2019-06-22
+50899,11,2859866,4,1,Approach,103,18,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,0.164,Mardyke Vall,2019-06-22
+50899,11,2859867,5,4,Putting,18,2,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.132,Mardyke Vall,2019-06-22
+50899,11,2859868,6,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,Mardyke Vall,2019-06-22
+50899,12,2859869,1,0,Approach,170,-,TEE,0,0,0,150 - 175,Graham Fletcher,0,-2.000,Mardyke Vall,2019-06-22
+50899,12,2859870,2,0,Approach,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Mardyke Vall,2019-06-22
+50899,12,2859871,3,0,Approach,170,96,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.399,Mardyke Vall,2019-06-22
+50899,12,2859872,4,1,Short Game,32,15,FAIRWAY,0,0,0,30 - 40,Graham Fletcher,0,-0.225,Mardyke Vall,2019-06-22
+50899,12,2859873,5,4,Putting,15,1,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.167,Mardyke Vall,2019-06-22
+50899,12,2859874,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,13,2859875,1,0,Drive,411,360,TEE,0,0,0,Drive,Graham Fletcher,1,0.298,Mardyke Vall,2019-06-22
+50899,13,2859876,2,1,Approach,120,69,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,-0.398,Mardyke Vall,2019-06-22
+50899,13,2859877,3,1,Short Game,23,33,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.759,Mardyke Vall,2019-06-22
+50899,13,2859878,4,1,Short Game,11,1,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,0.242,Mardyke Vall,2019-06-22
+50899,13,2859879,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,14,2859880,1,0,Drive,449,840,TEE,0,0,0,Drive,Graham Fletcher,0,-0.556,Mardyke Vall,2019-06-22
+50899,14,2859881,2,2,Approach,280,288,ROUGH,0,0,0,250+,Graham Fletcher,0,0.118,Mardyke Vall,2019-06-22
+50899,14,2859882,3,1,Short Game,96,39,FAIRWAY,0,0,0,90 - 100,Graham Fletcher,0,-0.268,Mardyke Vall,2019-06-22
+50899,14,2859883,4,1,Short Game,13,5,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.037,Mardyke Vall,2019-06-22
+50899,14,2859884,5,4,Putting,5,-,GREEN,1,0,0,05,Graham Fletcher,0,0.334,Mardyke Vall,2019-06-22
+50899,15,2859885,1,0,Drive,279,12,TEE,0,0,0,Drive,Graham Fletcher,0,1.135,Mardyke Vall,2019-06-22
+50899,15,2859886,2,4,Putting,12,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.239,Mardyke Vall,2019-06-22
+50899,15,2859887,3,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,16,2859888,1,0,Drive,339,435,TEE,0,0,0,Drive,Graham Fletcher,0,-0.174,Mardyke Vall,2019-06-22
+50899,16,2859889,2,2,Approach,145,45,ROUGH,0,0,0,125 - 150,Graham Fletcher,0,-0.048,Mardyke Vall,2019-06-22
+50899,16,2859890,3,1,Short Game,15,4,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,0.136,Mardyke Vall,2019-06-22
+50899,16,2859891,4,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,Mardyke Vall,2019-06-22
+50899,17,2859892,1,0,Approach,166,66,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.470,Mardyke Vall,2019-06-22
+50899,17,2859893,2,2,Short Game,22,33,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,-0.584,Mardyke Vall,2019-06-22
+50899,17,2859894,3,1,Short Game,11,1,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,0.242,Mardyke Vall,2019-06-22
+50899,17,2859895,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Mardyke Vall,2019-06-22
+50899,18,2859896,1,0,Drive,424,471,TEE,0,0,0,Drive,Graham Fletcher,0,0.093,Mardyke Vall,2019-06-22
+50899,18,2859897,2,2,Approach,157,78,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,-0.354,Mardyke Vall,2019-06-22
+50899,18,2859898,3,2,Short Game,26,6,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,0.278,Mardyke Vall,2019-06-22
+50899,18,2859899,4,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,Mardyke Vall,2019-06-22
+53174,1,3003404,1,0,Drive,527,768,TEE,0,0,0,Drive,Graham Fletcher,0,0.171,South Essex HH,2019-07-06
+53174,1,3003405,2,2,Approach,256,330,ROUGH,0,0,0,250+,Graham Fletcher,0,-0.170,South Essex HH,2019-07-06
+53174,1,3003406,3,2,Approach,110,45,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-0.498,South Essex HH,2019-07-06
+53174,1,3003407,4,3,Short Game,15,18,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.391,South Essex HH,2019-07-06
+53174,1,3003408,5,1,Short Game,6,18,FAIRWAY,0,0,0,0 - 10,Graham Fletcher,0,-0.814,South Essex HH,2019-07-06
+53174,1,3003409,6,4,Putting,18,4,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.315,South Essex HH,2019-07-06
+53174,1,3003410,7,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,South Essex HH,2019-07-06
+53174,2,3003411,1,0,Drive,354,654,TEE,0,0,0,Drive,Graham Fletcher,0,-0.645,South Essex HH,2019-07-06
+53174,2,3003412,2,2,Approach,218,135,ROUGH,0,0,0,200 - 250,Graham Fletcher,0,0.047,South Essex HH,2019-07-06
+53174,2,3003413,3,1,Short Game,45,18,FAIRWAY,0,0,0,40 - 50,Graham Fletcher,0,-0.137,South Essex HH,2019-07-06
+53174,2,3003414,4,4,Putting,18,2,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.132,South Essex HH,2019-07-06
+53174,2,3003415,5,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,South Essex HH,2019-07-06
+53174,3,3003416,1,0,Drive,436,771,TEE,0,0,0,Drive,Graham Fletcher,1,-0.344,South Essex HH,2019-07-06
+53174,3,3003417,2,1,Approach,257,315,FAIRWAY,0,0,0,250+,Graham Fletcher,0,-0.309,South Essex HH,2019-07-06
+53174,3,3003418,3,2,Approach,105,-,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,3,3003419,4,0,Approach,0,-,ROUGH,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,3,3003420,5,2,Approach,105,36,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-0.098,South Essex HH,2019-07-06
+53174,3,3003421,6,1,Short Game,12,15,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.565,South Essex HH,2019-07-06
+53174,3,3003422,7,4,Putting,15,3,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.242,South Essex HH,2019-07-06
+53174,3,3003423,8,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,South Essex HH,2019-07-06
+53174,4,3003424,1,0,Approach,139,18,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.363,South Essex HH,2019-07-06
+53174,4,3003425,2,3,Short Game,6,54,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-1.139,South Essex HH,2019-07-06
+53174,4,3003426,3,2,Short Game,18,20,ROUGH,0,0,0,15 - 20,Graham Fletcher,0,-0.331,South Essex HH,2019-07-06
+53174,4,3003427,4,4,Putting,20,3,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.159,South Essex HH,2019-07-06
+53174,4,3003428,5,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,South Essex HH,2019-07-06
+53174,5,3003429,1,0,Drive,542,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,5,3003430,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,5,3003431,3,0,Drive,542,864,TEE,0,0,0,Drive,Graham Fletcher,1,0.246,South Essex HH,2019-07-06
+53174,5,3003432,4,1,Approach,288,375,FAIRWAY,0,0,0,250+,Graham Fletcher,0,-0.170,South Essex HH,2019-07-06
+53174,5,3003433,5,2,Approach,125,36,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-0.400,South Essex HH,2019-07-06
+53174,5,3003434,6,3,Short Game,12,22,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.312,South Essex HH,2019-07-06
+53174,5,3003435,7,4,Putting,22,-,GREEN,1,0,0,22+,Graham Fletcher,0,0.947,South Essex HH,2019-07-06
+53174,6,3003436,1,0,Drive,329,447,TEE,0,0,0,Drive,Graham Fletcher,1,-0.047,South Essex HH,2019-07-06
+53174,6,3003437,2,1,Approach,149,-,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,6,3003438,3,0,Approach,0,-,FAIRWAY,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,6,3003439,4,1,Approach,149,30,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.072,South Essex HH,2019-07-06
+53174,6,3003440,5,1,Short Game,10,12,FAIRWAY,0,0,0,0 - 10,Graham Fletcher,0,-0.546,South Essex HH,2019-07-06
+53174,6,3003441,6,4,Putting,12,2,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.258,South Essex HH,2019-07-06
+53174,6,3003442,7,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,South Essex HH,2019-07-06
+53174,7,3003443,1,0,Drive,327,384,TEE,0,0,0,Drive,Graham Fletcher,1,-0.009,South Essex HH,2019-07-06
+53174,7,3003444,2,1,Approach,128,36,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,0.013,South Essex HH,2019-07-06
+53174,7,3003445,3,4,Putting,36,2,GREEN,0,0,0,22+,Graham Fletcher,0,0.069,South Essex HH,2019-07-06
+53174,7,3003446,4,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,South Essex HH,2019-07-06
+53174,8,3003447,1,0,Approach,175,36,TEE,0,0,0,150 - 175,Graham Fletcher,0,0.147,South Essex HH,2019-07-06
+53174,8,3003448,2,4,Putting,36,6,GREEN,0,0,0,22+,Graham Fletcher,0,-0.348,South Essex HH,2019-07-06
+53174,8,3003449,3,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,South Essex HH,2019-07-06
+53174,9,3003450,1,0,Drive,303,267,TEE,0,0,0,Drive,Graham Fletcher,0,-0.050,South Essex HH,2019-07-06
+53174,9,3003451,2,2,Short Game,89,24,ROUGH,0,0,0,80 - 90,Graham Fletcher,0,0.128,South Essex HH,2019-07-06
+53174,9,3003452,3,4,Putting,24,6,GREEN,0,0,0,22+,Graham Fletcher,0,-0.470,South Essex HH,2019-07-06
+53174,9,3003453,4,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,South Essex HH,2019-07-06
+53174,9,3003454,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53174,10,3003455,1,0,Drive,497,747,TEE,0,0,0,Drive,Graham Fletcher,0,-0.031,South Essex HH,2019-07-06
+53174,10,3003456,2,2,Approach,249,120,ROUGH,0,0,0,200 - 250,Graham Fletcher,0,0.275,South Essex HH,2019-07-06
+53174,10,3003457,3,1,Short Game,40,6,FAIRWAY,0,0,0,30 - 40,Graham Fletcher,0,0.267,South Essex HH,2019-07-06
+53174,10,3003458,4,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,South Essex HH,2019-07-06
+53174,10,3003459,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53174,11,3003460,1,0,Drive,287,393,TEE,0,0,0,Drive,Graham Fletcher,1,-0.157,South Essex HH,2019-07-06
+53174,11,3003461,2,1,Approach,131,33,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.135,South Essex HH,2019-07-06
+53174,11,3003462,3,1,Short Game,11,6,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.195,South Essex HH,2019-07-06
+53174,11,3003463,4,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,South Essex HH,2019-07-06
+53174,11,3003464,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53174,12,3003465,1,0,Drive,330,-,TEE,0,0,0,Drive,Graham Fletcher,0,-1.440,South Essex HH,2019-07-06
+53174,12,3003466,2,0,Drive,0,-,TEE,0,1,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,12,3003467,3,2,Approach,180,120,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,-0.165,South Essex HH,2019-07-06
+53174,12,3003468,4,1,Short Game,40,10,FAIRWAY,0,0,0,30 - 40,Graham Fletcher,0,0.012,South Essex HH,2019-07-06
+53174,12,3003469,5,4,Putting,10,1,GREEN,0,0,0,10,Graham Fletcher,0,-0.309,South Essex HH,2019-07-06
+53174,12,3003470,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53174,13,3003471,1,0,Drive,360,501,TEE,0,0,0,Drive,Graham Fletcher,0,-0.498,South Essex HH,2019-07-06
+53174,13,3003472,2,3,Approach,167,117,SAND,0,0,0,150 - 175,Graham Fletcher,0,-0.153,South Essex HH,2019-07-06
+53174,13,3003473,3,2,Short Game,39,3,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,0.751,South Essex HH,2019-07-06
+53174,13,3003474,4,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,South Essex HH,2019-07-06
+53174,14,3003475,1,0,Drive,404,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,14,3003476,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,14,3003477,3,0,Drive,404,528,TEE,0,0,0,Drive,Graham Fletcher,0,-0.161,South Essex HH,2019-07-06
+53174,14,3003478,4,2,Approach,176,-,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,14,3003479,5,0,Approach,0,-,ROUGH,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,14,3003480,6,2,Approach,176,54,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,-0.078,South Essex HH,2019-07-06
+53174,14,3003481,7,2,Short Game,18,18,ROUGH,0,0,0,15 - 20,Graham Fletcher,0,-0.302,South Essex HH,2019-07-06
+53174,14,3003482,8,4,Putting,18,4,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.315,South Essex HH,2019-07-06
+53174,14,3003483,9,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,South Essex HH,2019-07-06
+53174,15,3003484,1,0,Approach,131,54,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.331,South Essex HH,2019-07-06
+53174,15,3003485,2,1,Short Game,18,2,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,0.379,South Essex HH,2019-07-06
+53174,15,3003486,3,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,South Essex HH,2019-07-06
+53174,16,3003487,1,0,Drive,383,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,16,3003488,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,16,3003489,3,0,Drive,383,225,TEE,0,0,0,Drive,Graham Fletcher,0,0.244,South Essex HH,2019-07-06
+53174,16,3003490,4,2,Short Game,75,7,ROUGH,0,0,0,70 - 80,Graham Fletcher,0,0.495,South Essex HH,2019-07-06
+53174,16,3003491,5,4,Putting,7,1,GREEN,0,0,0,07,Graham Fletcher,0,-0.478,South Essex HH,2019-07-06
+53174,16,3003492,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53174,17,3003493,1,0,Approach,141,66,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.685,South Essex HH,2019-07-06
+53174,17,3003494,2,3,Short Game,22,15,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,-0.061,South Essex HH,2019-07-06
+53174,17,3003495,3,4,Putting,15,1,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.167,South Essex HH,2019-07-06
+53174,17,3003496,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53174,18,3003497,1,0,Drive,525,702,TEE,0,0,0,Drive,Graham Fletcher,1,0.457,South Essex HH,2019-07-06
+53174,18,3003498,2,1,Approach,234,396,FAIRWAY,0,0,0,200 - 250,Graham Fletcher,0,-0.396,South Essex HH,2019-07-06
+53174,18,3003499,3,1,Approach,132,-,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-2.000,South Essex HH,2019-07-06
+53174,18,3003500,4,0,Approach,0,-,FAIRWAY,0,2,0,-,Graham Fletcher,0,0.000,South Essex HH,2019-07-06
+53174,18,3003501,5,1,Approach,132,60,FAIRWAY,0,0,0,125 - 150,Graham Fletcher,0,-0.325,South Essex HH,2019-07-06
+53174,18,3003502,6,1,Short Game,20,4,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,0.232,South Essex HH,2019-07-06
+53174,18,3003503,7,4,Putting,4,1,GREEN,0,0,0,04,Graham Fletcher,0,-0.798,South Essex HH,2019-07-06
+53174,18,3003504,8,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,South Essex HH,2019-07-06
+53911,1,3049068,1,0,Drive,346,345,TEE,0,0,0,Drive,Graham Fletcher,0,-0.070,Weston super,2019-05-23
+53911,1,3049069,2,2,Approach,115,36,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-0.068,Weston super,2019-05-23
+53911,1,3049070,3,1,Short Game,12,11,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.461,Weston super,2019-05-23
+53911,1,3049071,4,4,Putting,11,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.271,Weston super,2019-05-23
+53911,1,3049072,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,2,3049073,1,0,Drive,366,543,TEE,0,0,0,Drive,Graham Fletcher,0,-0.349,Weston super,2019-05-23
+53911,2,3049074,2,2,Approach,181,96,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,-0.229,Weston super,2019-05-23
+53911,2,3049075,3,2,Short Game,32,69,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,-0.708,Weston super,2019-05-23
+53911,2,3049076,4,1,Short Game,23,14,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.329,Weston super,2019-05-23
+53911,2,3049077,5,4,Putting,14,2,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.208,Weston super,2019-05-23
+53911,2,3049078,6,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,Weston super,2019-05-23
+53911,3,3049079,1,0,Approach,141,168,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.825,Weston super,2019-05-23
+53911,3,3049080,2,2,Short Game,56,18,ROUGH,0,0,0,50 - 60,Graham Fletcher,0,0.025,Weston super,2019-05-23
+53911,3,3049081,3,4,Putting,18,3,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.188,Weston super,2019-05-23
+53911,3,3049082,4,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Weston super,2019-05-23
+53911,4,3049083,1,0,Drive,348,405,TEE,0,0,0,Drive,Graham Fletcher,0,-0.126,Weston super,2019-05-23
+53911,4,3049084,2,2,Approach,135,-,ROUGH,0,0,0,125 - 150,Graham Fletcher,0,-2.000,Weston super,2019-05-23
+53911,4,3049085,3,0,Approach,0,-,ROUGH,0,2,0,-,Graham Fletcher,0,0.000,Weston super,2019-05-23
+53911,4,3049086,4,2,Approach,135,66,ROUGH,0,0,0,125 - 150,Graham Fletcher,0,-0.207,Weston super,2019-05-23
+53911,4,3049087,5,1,Short Game,22,7,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.055,Weston super,2019-05-23
+53911,4,3049088,6,4,Putting,7,-,GREEN,1,0,0,07,Graham Fletcher,0,0.527,Weston super,2019-05-23
+53911,5,3049089,1,0,Drive,404,345,TEE,0,0,0,Drive,Graham Fletcher,0,0.146,Weston super,2019-05-23
+53911,5,3049090,2,2,Approach,115,72,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-0.488,Weston super,2019-05-23
+53911,5,3049091,3,2,Short Game,24,54,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,-0.710,Weston super,2019-05-23
+53911,5,3049092,4,1,Short Game,18,12,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,-0.363,Weston super,2019-05-23
+53911,5,3049093,5,4,Putting,12,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.239,Weston super,2019-05-23
+53911,5,3049094,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,6,3049095,1,0,Drive,390,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,Weston super,2019-05-23
+53911,6,3049096,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,Weston super,2019-05-23
+53911,6,3049097,3,0,Drive,390,495,TEE,0,0,0,Drive,Graham Fletcher,1,0.037,Weston super,2019-05-23
+53911,6,3049098,4,1,Approach,165,42,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.066,Weston super,2019-05-23
+53911,6,3049099,5,1,Short Game,14,1,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,0.316,Weston super,2019-05-23
+53911,6,3049100,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,7,3049101,1,0,Approach,135,93,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.520,Weston super,2019-05-23
+53911,7,3049102,2,1,Short Game,31,11,FAIRWAY,0,0,0,30 - 40,Graham Fletcher,0,-0.134,Weston super,2019-05-23
+53911,7,3049103,3,4,Putting,11,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.271,Weston super,2019-05-23
+53911,7,3049104,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,8,3049105,1,0,Drive,446,738,TEE,0,0,0,Drive,Graham Fletcher,0,-0.391,Weston super,2019-05-23
+53911,8,3049106,2,2,Approach,246,270,ROUGH,0,0,0,200 - 250,Graham Fletcher,0,-0.032,Weston super,2019-05-23
+53911,8,3049107,3,1,Short Game,90,45,FAIRWAY,0,0,0,80 - 90,Graham Fletcher,0,-0.345,Weston super,2019-05-23
+53911,8,3049108,4,1,Short Game,15,18,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.550,Weston super,2019-05-23
+53911,8,3049109,5,4,Putting,18,3,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.188,Weston super,2019-05-23
+53911,8,3049110,6,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Weston super,2019-05-23
+53911,9,3049111,1,0,Drive,416,735,TEE,0,0,0,Drive,Graham Fletcher,0,-0.545,Weston super,2019-05-23
+53911,9,3049112,2,2,Approach,245,285,ROUGH,0,0,0,200 - 250,Graham Fletcher,0,-0.172,Weston super,2019-05-23
+53911,9,3049113,3,2,Short Game,95,54,ROUGH,0,0,0,90 - 100,Graham Fletcher,0,-0.271,Weston super,2019-05-23
+53911,9,3049114,4,1,Short Game,18,8,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,-0.193,Weston super,2019-05-23
+53911,9,3049115,5,4,Putting,8,-,GREEN,1,0,0,08,Graham Fletcher,0,0.596,Weston super,2019-05-23
+53911,10,3049116,1,0,Drive,338,333,TEE,0,0,0,Drive,Graham Fletcher,0,-0.074,Weston super,2019-05-23
+53911,10,3049117,2,2,Approach,111,84,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-1.383,Weston super,2019-05-23
+53911,10,3049118,3,0,Recovery,28,63,ROUGH,0,0,1,-,Graham Fletcher,0,-0.070,Weston super,2019-05-23
+53911,10,3049119,4,2,Short Game,21,6,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,0.205,Weston super,2019-05-23
+53911,10,3049120,5,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,Weston super,2019-05-23
+53911,11,3049121,1,0,Approach,190,126,TEE,0,0,0,175 - 200,Graham Fletcher,0,-0.530,Weston super,2019-05-23
+53911,11,3049122,2,2,Short Game,42,18,ROUGH,0,0,0,40 - 50,Graham Fletcher,0,-0.043,Weston super,2019-05-23
+53911,11,3049123,3,4,Putting,18,3,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.188,Weston super,2019-05-23
+53911,11,3049124,4,4,Putting,3,-,GREEN,1,0,0,03,Graham Fletcher,0,0.080,Weston super,2019-05-23
+53911,12,3049125,1,0,Drive,395,324,TEE,0,0,0,Drive,Graham Fletcher,1,0.245,Weston super,2019-05-23
+53911,12,3049126,2,1,Approach,108,48,FAIRWAY,0,0,0,100 - 125,Graham Fletcher,0,-0.150,Weston super,2019-05-23
+53911,12,3049127,3,4,Putting,48,8,GREEN,0,0,0,22+,Graham Fletcher,0,-0.380,Weston super,2019-05-23
+53911,12,3049128,4,4,Putting,8,-,GREEN,1,0,0,08,Graham Fletcher,0,0.596,Weston super,2019-05-23
+53911,13,3049129,1,0,Drive,448,468,TEE,0,0,0,Drive,Graham Fletcher,0,0.229,Weston super,2019-05-23
+53911,13,3049130,2,2,Approach,156,126,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,-0.493,Weston super,2019-05-23
+53911,13,3049131,3,2,Short Game,42,25,ROUGH,0,0,0,40 - 50,Graham Fletcher,0,-0.133,Weston super,2019-05-23
+53911,13,3049132,4,4,Putting,25,4,GREEN,0,0,0,22+,Graham Fletcher,0,-0.225,Weston super,2019-05-23
+53911,13,3049133,5,4,Putting,4,-,GREEN,1,0,0,04,Graham Fletcher,0,0.207,Weston super,2019-05-23
+53911,14,3049134,1,0,Approach,116,102,TEE,0,0,0,100 - 125,Graham Fletcher,0,-0.754,Weston super,2019-05-23
+53911,14,3049135,2,2,Short Game,34,14,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,-0.020,Weston super,2019-05-23
+53911,14,3049136,3,4,Putting,14,1,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.189,Weston super,2019-05-23
+53911,14,3049137,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,15,3049138,1,0,Drive,349,468,TEE,0,0,0,Drive,Graham Fletcher,0,-0.940,Weston super,2019-05-23
+53911,15,3049139,2,0,Recovery,156,225,TEE,0,0,1,-,Graham Fletcher,0,0.162,Weston super,2019-05-23
+53911,15,3049140,3,1,Short Game,75,60,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,-0.521,Weston super,2019-05-23
+53911,15,3049141,4,1,Short Game,20,16,FAIRWAY,0,0,0,15 - 20,Graham Fletcher,0,-0.419,Weston super,2019-05-23
+53911,15,3049142,5,4,Putting,16,1,GREEN,0,0,0,15 - 18,Graham Fletcher,0,-0.147,Weston super,2019-05-23
+53911,15,3049143,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,16,3049144,1,0,Approach,176,78,TEE,0,0,0,175 - 200,Graham Fletcher,0,-0.474,Weston super,2019-05-23
+53911,16,3049145,2,2,Short Game,26,10,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,0.023,Weston super,2019-05-23
+53911,16,3049146,3,4,Putting,10,-,GREEN,1,0,0,10,Graham Fletcher,0,0.696,Weston super,2019-05-23
+53911,17,3049147,1,0,Drive,482,585,TEE,0,0,0,Drive,Graham Fletcher,1,0.375,Weston super,2019-05-23
+53911,17,3049148,2,1,Approach,195,30,FAIRWAY,0,0,0,175 - 200,Graham Fletcher,0,-2.000,Weston super,2019-05-23
+53911,17,3049149,6,4,Putting,30,8,GREEN,0,0,0,22+,Graham Fletcher,0,-0.562,Weston super,2019-05-23
+53911,17,3049150,7,4,Putting,8,1,GREEN,0,0,0,08,Graham Fletcher,0,-0.409,Weston super,2019-05-23
+53911,17,3049151,8,4,Putting,1,-,GREEN,0,0,0,0 - 2,Graham Fletcher,0,0.005,Weston super,2019-05-23
+53911,17,3049152,3,0,Approach,0,-,FAIRWAY,0,2,0,-,Graham Fletcher,0,0.000,Weston super,2019-05-23
+53911,17,3049153,4,1,Approach,195,93,FAIRWAY,0,0,0,175 - 200,Graham Fletcher,0,-0.390,Weston super,2019-05-23
+53911,17,3049154,5,3,Short Game,31,-,SAND,1,0,0,Sand 0 - 100,Graham Fletcher,0,-0.180,Weston super,2019-05-23
+53911,18,3049155,1,0,Drive,416,729,TEE,0,0,0,Drive,Graham Fletcher,0,-0.533,Weston super,2019-05-23
+53911,18,3049156,2,2,Approach,243,213,ROUGH,0,0,0,200 - 250,Graham Fletcher,0,0.051,Weston super,2019-05-23
+53911,18,3049157,3,1,Short Game,71,28,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,-0.116,Weston super,2019-05-23
+53911,18,3049158,4,4,Putting,28,7,GREEN,0,0,0,22+,Graham Fletcher,0,-0.514,Weston super,2019-05-23
+53911,18,3049159,5,4,Putting,7,-,GREEN,1,0,0,07,Graham Fletcher,0,0.527,Weston super,2019-05-23
+58000,1,3301761,1,0,Drive,341,216,TEE,0,0,0,Drive,Graham Fletcher,1,0.223,SE Vixen Her,2019-09-07
+58000,1,3301762,2,1,Short Game,72,10,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,0.206,SE Vixen Her,2019-09-07
+58000,1,3301763,3,4,Putting,10,-,GREEN,1,0,0,10,Graham Fletcher,0,0.696,SE Vixen Her,2019-09-07
+58000,2,3301764,1,0,Drive,372,618,TEE,0,0,0,Drive,Graham Fletcher,1,-0.313,SE Vixen Her,2019-09-07
+58000,2,3301765,2,1,Approach,206,102,FAIRWAY,0,0,0,200 - 250,Graham Fletcher,0,-0.259,SE Vixen Her,2019-09-07
+58000,2,3301766,3,2,Short Game,34,22,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,-0.151,SE Vixen Her,2019-09-07
+58000,2,3301767,4,4,Putting,22,7,GREEN,0,0,0,22+,Graham Fletcher,0,-0.580,SE Vixen Her,2019-09-07
+58000,2,3301768,5,4,Putting,7,1,GREEN,0,0,0,07,Graham Fletcher,0,-0.478,SE Vixen Her,2019-09-07
+58000,2,3301769,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,3,3301770,1,0,Approach,150,72,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.393,SE Vixen Her,2019-09-07
+58000,3,3301771,2,1,Short Game,24,7,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.024,SE Vixen Her,2019-09-07
+58000,3,3301772,3,4,Putting,7,-,GREEN,1,0,0,07,Graham Fletcher,0,0.527,SE Vixen Her,2019-09-07
+58000,4,3301773,1,0,Drive,287,-,TEE,0,0,0,Drive,Graham Fletcher,0,-1.220,SE Vixen Her,2019-09-07
+58000,4,3301774,2,0,Drive,0,-,TEE,0,1,0,-,Graham Fletcher,0,0.000,SE Vixen Her,2019-09-07
+58000,4,3301775,3,2,Approach,105,42,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,-0.146,SE Vixen Her,2019-09-07
+58000,4,3301776,4,1,Short Game,14,8,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.275,SE Vixen Her,2019-09-07
+58000,4,3301777,5,4,Putting,8,1,GREEN,0,0,0,08,Graham Fletcher,0,-0.409,SE Vixen Her,2019-09-07
+58000,4,3301778,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,5,3301779,1,0,Drive,377,681,TEE,0,0,0,Drive,Graham Fletcher,0,-0.611,SE Vixen Her,2019-09-07
+58000,5,3301780,2,2,Approach,227,300,ROUGH,0,0,0,200 - 250,Graham Fletcher,0,-0.587,SE Vixen Her,2019-09-07
+58000,5,3301781,3,6,Short Game,100,171,6,0,0,0,90 - 100,Graham Fletcher,0,-0.381,SE Vixen Her,2019-09-07
+58000,5,3301782,4,1,Short Game,57,4,FAIRWAY,0,0,0,50 - 60,Graham Fletcher,0,0.616,SE Vixen Her,2019-09-07
+58000,5,3301783,5,4,Putting,4,1,GREEN,0,0,0,04,Graham Fletcher,0,-0.798,SE Vixen Her,2019-09-07
+58000,5,3301784,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,6,3301785,1,0,Approach,202,120,TEE,0,0,0,200 - 250,Graham Fletcher,0,-0.453,SE Vixen Her,2019-09-07
+58000,6,3301786,2,2,Short Game,40,2,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,0.814,SE Vixen Her,2019-09-07
+58000,6,3301787,3,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,SE Vixen Her,2019-09-07
+58000,7,3301788,1,0,Drive,273,18,TEE,0,0,0,Drive,Graham Fletcher,1,0.783,SE Vixen Her,2019-09-07
+58000,7,3301789,2,1,Short Game,6,2,FAIRWAY,0,0,0,0 - 10,Graham Fletcher,0,0.054,SE Vixen Her,2019-09-07
+58000,7,3301790,3,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,SE Vixen Her,2019-09-07
+58000,8,3301791,1,0,Drive,289,261,TEE,0,0,0,Drive,Graham Fletcher,0,-0.986,SE Vixen Her,2019-09-07
+58000,8,3301792,2,0,Recovery,87,210,TEE,0,0,1,-,Graham Fletcher,0,-0.040,SE Vixen Her,2019-09-07
+58000,8,3301793,3,2,Short Game,70,51,ROUGH,0,0,0,60 - 70,Graham Fletcher,0,-0.722,SE Vixen Her,2019-09-07
+58000,8,3301794,4,3,Short Game,17,3,SAND,0,0,0,Sand 0 - 100,Graham Fletcher,0,0.637,SE Vixen Her,2019-09-07
+58000,8,3301795,5,4,Putting,3,1,GREEN,0,0,0,03,Graham Fletcher,0,-0.925,SE Vixen Her,2019-09-07
+58000,8,3301796,6,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,9,3301797,1,0,Drive,541,-,TEE,0,0,0,Drive,Graham Fletcher,0,-1.249,SE Vixen Her,2019-09-07
+58000,9,3301798,2,0,Drive,0,-,TEE,0,1,0,-,Graham Fletcher,0,0.000,SE Vixen Her,2019-09-07
+58000,9,3301799,3,2,Approach,408,981,ROUGH,0,0,0,250+,Graham Fletcher,0,-0.760,SE Vixen Her,2019-09-07
+58000,9,3301800,4,2,Approach,327,120,ROUGH,0,0,0,250+,Graham Fletcher,0,0.475,SE Vixen Her,2019-09-07
+58000,9,3301801,5,2,Short Game,40,12,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,0.072,SE Vixen Her,2019-09-07
+58000,9,3301802,6,4,Putting,12,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.239,SE Vixen Her,2019-09-07
+58000,9,3301803,7,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,10,3301804,1,0,Drive,536,741,TEE,0,0,0,Drive,Graham Fletcher,1,0.462,SE Vixen Her,2019-09-07
+58000,10,3301805,2,1,Approach,247,-,FAIRWAY,0,0,0,200 - 250,Graham Fletcher,0,-2.176,SE Vixen Her,2019-09-07
+58000,10,3301806,3,0,Approach,0,-,FAIRWAY,0,1,0,-,Graham Fletcher,0,0.000,SE Vixen Her,2019-09-07
+58000,10,3301807,4,0,Recovery,110,225,TEE,0,0,1,-,Graham Fletcher,0,0.059,SE Vixen Her,2019-09-07
+58000,10,3301808,5,1,Short Game,75,30,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,-0.302,SE Vixen Her,2019-09-07
+58000,10,3301809,6,1,Short Game,10,8,FAIRWAY,0,0,0,0 - 10,Graham Fletcher,0,-0.376,SE Vixen Her,2019-09-07
+58000,10,3301810,7,4,Putting,8,1,GREEN,0,0,0,08,Graham Fletcher,0,-0.409,SE Vixen Her,2019-09-07
+58000,10,3301811,8,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,11,3301812,1,0,Drive,316,321,TEE,0,0,0,Drive,Graham Fletcher,0,-0.106,SE Vixen Her,2019-09-07
+58000,11,3301813,2,2,Approach,107,30,ROUGH,0,0,0,100 - 125,Graham Fletcher,0,0.147,SE Vixen Her,2019-09-07
+58000,11,3301814,3,4,Putting,30,6,GREEN,0,0,0,22+,Graham Fletcher,0,-0.407,SE Vixen Her,2019-09-07
+58000,11,3301815,4,4,Putting,6,1,GREEN,0,0,0,06,Graham Fletcher,0,-0.564,SE Vixen Her,2019-09-07
+58000,11,3301816,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,12,3301817,1,0,Drive,458,864,TEE,0,0,0,Drive,Graham Fletcher,0,-0.533,SE Vixen Her,2019-09-07
+58000,12,3301818,2,2,Approach,288,-,ROUGH,0,0,0,250+,Graham Fletcher,0,-1.167,SE Vixen Her,2019-09-07
+58000,12,3301819,3,0,Drive,0,-,ROUGH,0,1,0,-,Graham Fletcher,0,0.000,SE Vixen Her,2019-09-07
+58000,12,3301820,4,2,Approach,156,75,ROUGH,0,0,0,150 - 175,Graham Fletcher,0,-0.349,SE Vixen Her,2019-09-07
+58000,12,3301821,5,2,Short Game,25,7,ROUGH,0,0,0,20 - 30,Graham Fletcher,0,0.179,SE Vixen Her,2019-09-07
+58000,12,3301822,6,4,Putting,7,-,GREEN,1,0,0,07,Graham Fletcher,0,0.527,SE Vixen Her,2019-09-07
+58000,13,3301823,1,0,Approach,136,33,TEE,0,0,0,125 - 150,Graham Fletcher,0,-0.165,SE Vixen Her,2019-09-07
+58000,13,3301824,2,1,Short Game,11,8,FAIRWAY,0,0,0,10 - 15,Graham Fletcher,0,-0.350,SE Vixen Her,2019-09-07
+58000,13,3301825,3,4,Putting,8,1,GREEN,0,0,0,08,Graham Fletcher,0,-0.409,SE Vixen Her,2019-09-07
+58000,13,3301826,4,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,14,3301827,1,0,Drive,538,-,TEE,0,0,0,Drive,Graham Fletcher,0,-2.000,SE Vixen Her,2019-09-07
+58000,14,3301828,2,0,Drive,0,-,TEE,0,2,0,-,Graham Fletcher,0,0.000,SE Vixen Her,2019-09-07
+58000,14,3301829,3,0,Drive,538,792,TEE,0,0,0,Drive,Graham Fletcher,0,-0.010,SE Vixen Her,2019-09-07
+58000,14,3301830,4,6,Approach,264,588,6,0,0,0,250+,Graham Fletcher,0,-0.377,SE Vixen Her,2019-09-07
+58000,14,3301831,5,2,Approach,196,54,ROUGH,0,0,0,175 - 200,Graham Fletcher,0,0.077,SE Vixen Her,2019-09-07
+58000,14,3301832,6,2,Short Game,18,20,ROUGH,0,0,0,15 - 20,Graham Fletcher,0,-0.331,SE Vixen Her,2019-09-07
+58000,14,3301833,7,4,Putting,20,6,GREEN,0,0,0,18 - 21,Graham Fletcher,0,-0.520,SE Vixen Her,2019-09-07
+58000,14,3301834,8,4,Putting,6,-,GREEN,1,0,0,06,Graham Fletcher,0,0.441,SE Vixen Her,2019-09-07
+58000,15,3301835,1,0,Drive,354,480,TEE,0,0,0,Drive,Graham Fletcher,1,-0.062,SE Vixen Her,2019-09-07
+58000,15,3301836,2,1,Approach,160,96,FAIRWAY,0,0,0,150 - 175,Graham Fletcher,0,-0.858,SE Vixen Her,2019-09-07
+58000,15,3301837,3,6,Short Game,32,15,6,0,0,0,30 - 40,Graham Fletcher,0,0.240,SE Vixen Her,2019-09-07
+58000,15,3301838,4,4,Putting,15,1,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.167,SE Vixen Her,2019-09-07
+58000,15,3301839,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,16,3301840,1,0,Drive,340,555,TEE,0,0,0,Drive,Graham Fletcher,0,-1.071,SE Vixen Her,2019-09-07
+58000,16,3301841,2,0,Recovery,185,225,TEE,0,0,1,-,Graham Fletcher,0,0.276,SE Vixen Her,2019-09-07
+58000,16,3301842,3,1,Short Game,75,42,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,-0.236,SE Vixen Her,2019-09-07
+58000,16,3301843,4,4,Putting,42,2,GREEN,0,0,0,22+,Graham Fletcher,0,0.130,SE Vixen Her,2019-09-07
+58000,16,3301844,5,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,SE Vixen Her,2019-09-07
+58000,17,3301845,1,0,Approach,171,105,TEE,0,0,0,150 - 175,Graham Fletcher,0,-0.585,SE Vixen Her,2019-09-07
+58000,17,3301846,2,2,Short Game,35,63,ROUGH,0,0,0,30 - 40,Graham Fletcher,0,-0.652,SE Vixen Her,2019-09-07
+58000,17,3301847,3,1,Short Game,21,12,FAIRWAY,0,0,0,20 - 30,Graham Fletcher,0,-0.311,SE Vixen Her,2019-09-07
+58000,17,3301848,4,4,Putting,12,1,GREEN,0,0,0,11 - 12,Graham Fletcher,0,-0.239,SE Vixen Her,2019-09-07
+58000,17,3301849,5,4,Putting,1,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.005,SE Vixen Her,2019-09-07
+58000,18,3301850,1,0,Drive,285,450,TEE,0,0,0,Drive,Graham Fletcher,0,-1.129,SE Vixen Her,2019-09-07
+58000,18,3301851,2,0,Recovery,150,390,TEE,0,0,1,-,Graham Fletcher,0,-0.955,SE Vixen Her,2019-09-07
+58000,18,3301852,3,0,Recovery,130,225,TEE,0,0,1,-,Graham Fletcher,0,0.107,SE Vixen Her,2019-09-07
+58000,18,3301853,4,1,Short Game,75,14,FAIRWAY,0,0,0,70 - 80,Graham Fletcher,0,0.102,SE Vixen Her,2019-09-07
+58000,18,3301854,5,4,Putting,14,2,GREEN,0,0,0,12 - 15,Graham Fletcher,0,-0.208,SE Vixen Her,2019-09-07
+58000,18,3301855,6,4,Putting,2,-,GREEN,1,0,0,0 - 2,Graham Fletcher,0,0.024,SE Vixen Her,2019-09-07

@@ -1,0 +1,5 @@
+
+ - Build an entry screen where you select a player
+    - This will just give a filter for the playername field
+    - This selection will need to be put in the top right corner
+    - If we can change filter to display active value then top right display can just be the filter
